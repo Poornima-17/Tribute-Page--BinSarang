@@ -8,10 +8,10 @@ This project aims to honor his legacy through a beautifully designed webpage fea
 **Biography Section**: Highlights Moonbin’s life, career, and achievements.
 **Gallery**: A collection of memorable photos and moments.
 
-🎨 Technologies Used
+## 🎨 Technologies Used
 HTML and CSS for frontend development.
 
-🌟 Acknowledgments
+## 🌟 Acknowledgments
 Inspired by Moonbin’s artistry and impact.
 Thanks to AROHAs for their continuous love and support.
 All the images used in this website are not mine and belongs to their rightful owners.
