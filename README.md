@@ -10,6 +10,7 @@ This project aims to honor his legacy through a beautifully designed webpage fea
 
 ## 🎨 Technologies Used
 HTML and CSS for frontend development.
+Made responsive with css and media query.
 
 ## 🌟 Acknowledgments
 Inspired by Moonbin’s artistry and impact.
